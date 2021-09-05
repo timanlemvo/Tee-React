@@ -3,10 +3,9 @@ import { HashRouter, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/index";
 import Footer from "./components/Footer/index";
 import Wrapper from "./components/Wrapper/index";
-import About from "./components/About/About";
-import Portfolio from "./components/Portfolio/Portfolio";
-import Contact from "./components/Contact/Contact";
-
+import About from "./pages/About";
+import Portfolio from "./pages/Portfolio";
+import Contact from "./pages/Contact";
 
 function App() {
   return (
