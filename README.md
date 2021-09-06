@@ -1,4 +1,78 @@
-# Getting Started with Create React App
+# Tee-React
+React Protfolio
+
+## Table of Contents
+- [Description](#Description)
+- [Deployed Application](#DeployedApplication)
+- [License](#License)
+- [Contributors](#Contributors)
+- [Questions](#Questions)
+
+## Description
+A react version of personal portfolio.
+
+## Deployed Application
+
+## Technologies Used
+- ReactJS
+- React bootstrap
+- MDB React 
+
+## License
+![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
+
+## Contributors
+Github: [Tima Nlemvo](https://github.com/timanlemvo)
+
+
+## Questions
+Github: [Tima Nlemvo](https://github.com) </br>
+Email: [Tima Nlemvo](timanlemvo@gmail.com)
+
+
+“Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn.”
+
+-- Stephen Hawking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
