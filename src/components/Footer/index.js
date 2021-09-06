@@ -1,5 +1,5 @@
 import React from "react";
-//import "./style.css";
+import "./style.css";
 
 function Footer() {
   return (
@@ -27,7 +27,7 @@ function Footer() {
 
       <div class="footer-copyright text-center py-3">
         © 2020 Copyright:
-        <a href="https://github.com/timanlemvo">
+        <a href="https://timanlemvo.github.io/Tee-React/">
           {" "}
           Tima Nlemvo
         </a>

@@ -8,16 +8,11 @@ const AboutMe = () => {
         <MDBCol md="12">
           <h2>About Me</h2>
           <hr class="solid bg-dark" />
-          <img
-            style={{ height: "285px" }}
-            src="my-app/src/assets/images/Memoji.png"
-            class="float-left pr-4 pb-3 img-fluid"
-            alt="Tima Nlemvo"
-          />
+          <img 
+          style={{ height: "285px" }}
+          src= ""/>
           <p style={{ fontSize: "27px" }}>
-            Hello, my name is Tima Nlemov.  I am
-            actively looking for job opportunities as a remote Junior Web Developer or in Los Angeles.
-          </p>
+            Hello, my name is Tima Nlemvo. I am actively looking for job opportunities as a Junior Web Developer remotely or in the Los Angeles Area.           </p>
         </MDBCol>
       </MDBRow>
     </MDBContainer>
