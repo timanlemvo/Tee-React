@@ -12,6 +12,7 @@ React Protfolio
 A react version of personal portfolio.
 
 ## Deployed Application
+[Live Link](https://6135aeeedbacc7aba2b367b5--infallible-hoover-9dcd03.netlify.app/#/about)
 
 ## Technologies Used
 - ReactJS
