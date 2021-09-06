@@ -10,9 +10,9 @@ const AboutMe = () => {
           <hr class="solid bg-dark" />
           <img
             style={{ height: "285px" }}
-            //src=" need my image"
+            src="my-app/src/assets/images/Memoji.png"
             class="float-left pr-4 pb-3 img-fluid"
-            alt="Collin Hodgson"
+            alt="Tima Nlemvo"
           />
           <p style={{ fontSize: "27px" }}>
             Hello, my name is Tima Nlemov.  I am
